@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  Partido Liberacion Dominicana
+  <h1>Partido Liberacion Dominicana</h1>
 </head>
 
 <body>
