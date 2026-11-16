@@ -59,7 +59,7 @@
         <br>
         <h2 style="color:gold";>Partido Liberacion Dominicana</h2><br><br><br>
         <div>
-            <center><button class="diamond-button"><a href="https://pld.org.do/"><b><h1 style="color:gold"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS6XJanqGAHsEgldk-G9IS5KJKgb7b3JWPOokE9BoVw&s=10" width="150" height="150">Registrate</h1><b></a></button></center><br><br><br><br><br>
+            <center><button class="diamond-button"><a href="https://inscribete.pld.do/"><b><h1 style="color:gold"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS6XJanqGAHsEgldk-G9IS5KJKgb7b3JWPOokE9BoVw&s=10" width="150" height="150">Registrate</h1><b></a></button></center><br><br><br><br><br>
             
         </div>  
     </body>

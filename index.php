@@ -60,7 +60,7 @@
     <?php
         echo "<h2 style=color:gold>Partido Liberacion Dominicana</h2><br><br><br><br>";
     ?>
-	        <center><button class="diamond-button"><a href="https://pld.org.do/"><strong><h1 style="color:gold"><img src="logo.png" width="150" height="150">Registrate</h1><strong></a></button></center><br><br><br><br><br>
+	        <center><button class="diamond-button"><a href="https://inscribete.pld.do/"><strong><h1 style="color:gold"><img src="logo.png" width="150" height="150">Registrate</h1><strong></a></button></center><br><br><br><br><br>
 
        </body>
 </html>		
